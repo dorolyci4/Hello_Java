@@ -1,3 +1,5 @@
+package fr;
+
 
 
 public class Hello {
@@ -9,3 +11,4 @@ public class Hello {
 	}
 
 }
+

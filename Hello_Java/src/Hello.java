@@ -1,4 +1,4 @@
-package fr.socom;
+
 
 public class Hello {
 
